@@ -1,0 +1,24 @@
+[submodule "Bundles/JavaScript jQuery.tmbundle"]
+	path = Bundles/JavaScript jQuery.tmbundle
+	url = git://github.com/kswedberg/jquery-tmbundle.git
+[submodule "Bundles/AckMate.tmbundle"]
+	path = Bundles/AckMate.tmbundle
+	url = git://github.com/protocool/AckMate.git
+[submodule "Bundles/RSpec.tmbundle"]
+	path = Bundles/RSpec.tmbundle
+	url = git://github.com/rspec/rspec-tmbundle.git
+[submodule "Bundles/Cucumber.tmbundle"]
+	path = Bundles/Cucumber.tmbundle
+	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git
+[submodule "Bundles/Webrat.tmbundle"]
+	path = Bundles/Webrat.tmbundle
+	url = git://github.com/bmabey/webrat-tmbundle.git
+[submodule "Bundles/GitHub.tmbundle"]
+	path = Bundles/GitHub.tmbundle
+	url = git://github.com/drnic/github-tmbundle.git
+[submodule "Bundles/Bundler.tmbundle"]
+	path = Bundles/Bundler.tmbundle
+	url = git://github.com/drnic/Bundler.tmbundle.git
+[submodule "Bundles/GoToFile.tmbundle"]
+	path = Bundles/GoToFile.tmbundle
+	url = git://github.com/amiel/gotofile.tmbundle
