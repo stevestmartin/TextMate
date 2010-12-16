@@ -16,6 +16,3 @@
 [submodule "Bundles/Bundler.tmbundle"]
 	path = Bundles/Bundler.tmbundle
 	url = git://github.com/drnic/Bundler.tmbundle.git
-[submodule "Bundles/GoToFile.tmbundle"]
-	path = Bundles/GoToFile.tmbundle
-	url = git://github.com/amiel/gotofile.tmbundle
