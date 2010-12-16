@@ -1,9 +1,6 @@
 [submodule "Bundles/JavaScript jQuery.tmbundle"]
 	path = Bundles/JavaScript jQuery.tmbundle
 	url = git://github.com/kswedberg/jquery-tmbundle.git
-[submodule "Bundles/AckMate.tmbundle"]
-	path = Bundles/AckMate.tmbundle
-	url = git://github.com/protocool/AckMate.git
 [submodule "Bundles/RSpec.tmbundle"]
 	path = Bundles/RSpec.tmbundle
 	url = git://github.com/rspec/rspec-tmbundle.git
