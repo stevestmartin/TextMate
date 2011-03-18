@@ -16,3 +16,6 @@
 [submodule "Bundles/Bundler.tmbundle"]
 	path = Bundles/Bundler.tmbundle
 	url = git://github.com/drnic/Bundler.tmbundle.git
+[submodule "Bundles/Uber Glory.tmbundle"]
+	path = Bundles/Uber Glory.tmbundle
+	url = git://github.com/glennr/uber-glory-tmbundle.git
