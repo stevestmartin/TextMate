@@ -22,3 +22,6 @@
 [submodule "Bundles/CoffeeScript.tmbundle"]
 	path = Bundles/CoffeeScript.tmbundle
 	url = https://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "Bundles/Sass.tmbundle"]
+	path = Bundles/Sass.tmbundle
+	url = https://github.com/handcrafted/sass-tmbundle.git
