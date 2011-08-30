@@ -6,7 +6,7 @@
 	url = git://github.com/rspec/rspec-tmbundle.git
 [submodule "Bundles/Cucumber.tmbundle"]
 	path = Bundles/Cucumber.tmbundle
-	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git
+	url = git://github.com/cucumber/cucumber-tmbundle.git
 [submodule "Bundles/Webrat.tmbundle"]
 	path = Bundles/Webrat.tmbundle
 	url = git://github.com/bmabey/webrat-tmbundle.git
