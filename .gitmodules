@@ -25,6 +25,3 @@
 [submodule "Bundles/Sass.tmbundle"]
 	path = Bundles/Sass.tmbundle
 	url = https://github.com/handcrafted/sass-tmbundle.git
-[submodule "Bundles/MissingDrawer.tmplugin"]
-	path = Bundles/MissingDrawer.tmplugin
-	url = git://github.com/jezdez/textmate-missingdrawer.git
